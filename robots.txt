@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maucampphysio.co.za/sitemap.xml
